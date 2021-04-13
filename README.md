@@ -1,4 +1,4 @@
 # login-page
 
-Unername = admin
+Username = admin
 Password = root
